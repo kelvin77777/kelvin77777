@@ -1,16 +1,17 @@
-### Hi there 👋
+# HELLOOOO! 
+# WELCOME! Saya Kelvin Pahotton Simamora.<br>
 
-<!--
-**kelvin77777/kelvin77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya Mahasiswa Semester 6 di [Universitas Budi Luhur](https://www.budiluhur.ac.id/).<br>
 
-Here are some ideas to get you started:
+Saya juga merupakan anggota dari badan otonom [Lab ICT Terpadu Universitas Budi Luhur](https://labict.budiluhur.ac.id/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ayo Terhubung:
+- <a href="https://www.linkedin.com/in/kelvin-pahotton-simamora-471b38256/">LinkedIn</a>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/kelvin77777">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kelvin77777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kelvin77777&layout=compact&theme=algolia"/>
+</a>
+</p>
