@@ -1,11 +1,6 @@
 # HELLOOOO! 
-# WELCOME! Saya Kelvin Pahotton Simamora.<br>
 
-Saya Mahasiswa Semester 6 di [Universitas Budi Luhur](https://www.budiluhur.ac.id/).<br>
-
-Saya juga merupakan anggota dari badan otonom [Lab ICT Terpadu Universitas Budi Luhur](https://labict.budiluhur.ac.id/).<br>
-
-### Ayo Terhubung:
+### Let's Connected:
 - <a href="https://www.linkedin.com/in/kelvin-pahotton-simamora-471b38256/">LinkedIn</a>
 
 ### Github Statistic
